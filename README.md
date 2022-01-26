@@ -3,10 +3,10 @@ An app to explore near by restaurants using foursquare API. Navigation is also i
 
 # Demo:
 
-Click on the image to see demo on YouTube.
+https://youtu.be/oZjw3lOB6OM
 
-![Watch the Demo](https://img.youtube.com/vi/oZjw3lOB6OM/2.jpg)
-
+## Architecture
+![Architecture](https://uploads.toptal.io/blog/image/127608/toptal-blog-image-1543413671794-80993a19fea97477524763c908b50a7a.png)
 
 Below is the detail of the architecture, libraries & security used in the project. 
 
@@ -19,8 +19,6 @@ Below is the detail of the architecture, libraries & security used in the projec
         - MapsRepository
         - ApiService 
         
-## Architecture
-![Architecture](https://uploads.toptal.io/blog/image/127608/toptal-blog-image-1543413671794-80993a19fea97477524763c908b50a7a.png)
 
 ## Flow of API Call
 Activity/Fragment -> ViewModel -> MapsUseCase -> MapsRepository -> ApiService

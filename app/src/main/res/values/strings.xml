@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeatExplorer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="you_are_here">You are here!</string>
+    <string name="give_location_permission">Please give location permission to use this app.</string>
+    <string name="exploration_mode">Exploration Mode</string>
+    <string name="navigation_mode">Navigation Mode</string>
+    <string name="meters">meters</string>
+    <string name="venue_icon">venue icon</string>
+</resources>
